@@ -18,9 +18,17 @@ function MiddlePart() {
                 <a className="btn btn-dark rounded-pill px-4 shadow" href="javascript:void(0)">
                     Join the Waitlist <i className="bi bi-arrow-right ms-2"></i>
                 </a>
-                <section className="mt-4">
-                    <img src="/images/Leveled-images/Group 427320089 (1).png" className="img-fluid" alt="SMB Revolution" />
+                <section id="middle-img-parent">
+                    <img src="/images/Leveled-images/Rectangle 34624636.png" className="img-fluid" alt="SMB Revolution" />
+                    <img src="/images/Leveled-images/Rectangle 34624637.png" className="img-fluid" alt="SMB Revolution" />
+                    <img src="/images/Leveled-images/Rectangle 34624638.png" className="img-fluid" alt="SMB Revolution" />
+                    <img src="/images/Leveled-images/Rectangle 34624639.png" className="img-fluid" alt="SMB Revolution" />
+                    <img src="/images/Leveled-images/Rectangle 34624640.png" className="img-fluid" alt="SMB Revolution" />
                 </section>
+
+                {/* <section className="mt-4">
+                    <img src="/images/Leveled-images/Group 427320089 (1).png" className="img-fluid" alt="SMB Revolution" />
+                </section> */}
 
                 <section className="mt-5">
                     <img src="/images/Leveled-images/all-cuurenecy.png" className="img-fluid" alt="SMB Revolution" />
